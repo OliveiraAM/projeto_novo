@@ -8,6 +8,9 @@ body{
     background-color: rgb(204, 157, 248);
 
 }
+img.lado{
+        float: center;
+}
 
 main{
     background-color: white;
