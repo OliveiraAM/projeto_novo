@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97274ba3-3475-40f4-8bcc-1f26b5ebc14a" name="Default Changelist" comment="acrescentando HTML">
-      <change afterPath="$PROJECT_DIR$/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="97274ba3-3475-40f4-8bcc-1f26b5ebc14a" name="Default Changelist" comment="acrescentando CSS">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618923328142</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="acrescentando CSS">
+      <created>1618924535793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618924535793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="acrescentando HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="acrescentando HTML" />
+    <MESSAGE value="acrescentando CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="acrescentando CSS" />
   </component>
 </project>
